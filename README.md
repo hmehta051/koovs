@@ -41,7 +41,7 @@
 - `CSS`
 - `JavaScript`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishorpalei&hide=ejs,shell&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&hide=ejs,shell&theme=tokyonight)
 ---
 
 ---
